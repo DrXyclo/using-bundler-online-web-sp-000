@@ -14,3 +14,8 @@ gem 'awesome_print', git: 'https://github.com/awesome-print/awesome_print.git'
     gem "pry", :group => :development
 
   end
+  
+  group :test do
+    
+    gem 'rspec', :group => :test
+  end
