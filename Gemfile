@@ -9,16 +9,14 @@ gem 'octokit','~> 2.0'
 gem 'awesome_print', git: 'https://github.com/awesome-print/awesome_print.git'
 # gem 'rack', git: 'https://github.com/rack/rack.git'
 
-gem 'rspec', :group => :test
+gem "pry", :group => :development
 gem 'rspec', :group => :test
  
+  
   group :development do
-
-#    gem "pry", :group => :development
 
   end
   
   group :test do
     
-
   end
