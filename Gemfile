@@ -7,9 +7,6 @@ gem 'octokit','~> 2.0'
 gem 'awesome_print', :git => 'https://github.com/DrXyclo/awesome-print/awesome_print'
 
  
-gem "pry", :group => :development
-
-
-#group :development do
-#gem "pry"
-#end
+gem "pry", :group => :developmentgroup :development do
+gem "pry"
+end
