@@ -8,6 +8,7 @@ gem 'awesome_print', :git => 'https://github.com/DrXyclo/awesome-print/awesome_p
 
  
 group :development do
-  gem "pry", :group => :development
+
+gem "pry", :group => :development
 
 end
