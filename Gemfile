@@ -24,6 +24,6 @@ gem "pry", :group => :development
 
 group :test do
   
-  gem 'rpsec'
+  gem 'rspec'
 end
 
