@@ -9,8 +9,8 @@ gem 'awesome_print', git: 'https://github.com/awesome-print/awesome_print.git'
 # gem 'rack', git: 'https://github.com/rack/rack.git'
 
  
-group :development do
+  group :development do
 
-gem "pry", :group => :development
+    gem "pry", :group => :development
 
-end
+  end
