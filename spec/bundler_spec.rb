@@ -1,5 +1,6 @@
 #require 'bundler'
 require 'bundler/setup'
+Bundler.require(:default, :development)
 
 describe "Bundler" do
   before :all do
