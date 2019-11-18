@@ -1,4 +1,4 @@
-require 'bundler'
+#require 'bundler'
 require 'bundler/setup'
 
 describe "Bundler" do
